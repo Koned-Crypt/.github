@@ -1,4 +1,4 @@
-                                      ** Professional Proof-of-Stake Validator**
+                                      **Professional Proof-of-Stake Validator**
 
 
 hi 👋, we are a professional team of Conmada Proof-of-Stake validators
